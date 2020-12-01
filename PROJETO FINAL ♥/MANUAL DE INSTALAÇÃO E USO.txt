@@ -1,0 +1,19 @@
+Passo 1:
+
+	Deve ser feito o download da pasta projeto e abrir o arquivo de simulação(.psp) no proteus;
+
+Passo 2:
+ 
+	Na pasta que tem como nome 3 esta a versão final do projeto, baixe a pasta;
+
+Passo 3:
+
+	Depois de baixar apasta com o arquivo do código, carregue-o na simulação do proteus;
+
+Passo 4:
+	
+	No sensor de temperatura você pode aumenta-la ou diminui-la, lembrando que esse controle é manual, 
+	observe que conforme o sensor de temperatura marca uma temperatura alta a velocidade de rotação do 
+	motor aumenta, ele irá variar dependendo do quão quente sua placa está. Sempre que você fizer qualquer 
+	alteração nos valores de temperatura os mesmos serão mostrados no LCD, será mostrado também o valor em 
+	porcentagem da velocidade em que o motor estará rotacionando. 
